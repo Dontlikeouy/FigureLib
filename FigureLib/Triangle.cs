@@ -15,7 +15,12 @@ namespace FigureLib
             double p = (a + b + c) / 2;
             return Round(Sqrt(p * (p - a) * (p - b) * (p - c)), digits);
         }
-
+        /// <summary>
+        /// Проверяет является ли треугольник прямоугольным
+        /// </summary>
+        /// <param name="a"> Сторона A </param>
+        /// <param name="b"> Сторона B </param>
+        /// <param name="c"> Сторона C </param>
         public bool IsRectangle(int a, int b, int c)
         {
             if (Pow(a, 2) + Pow(b, 2) == Pow(c, 2) ||
