@@ -9,4 +9,5 @@
  - Высчитывает площадь круга через диаметр.
 
 ##Пример:
+
 ![](https://github.com/Dontlikeouy/FigureLib/assets/86613662/ac406dfe-69b0-416a-9d8c-e7fda05673da)
