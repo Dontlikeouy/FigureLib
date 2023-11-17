@@ -16,7 +16,7 @@ namespace FigureLib
             return Round(Sqrt(p * (p - a) * (p - b) * (p - c)), digits);
         }
         /// <summary>
-        /// Проверяет является ли треугольник прямоугольным
+        /// Проверяет, является ли треугольник прямоугольным
         /// </summary>
         /// <param name="a"> Сторона A </param>
         /// <param name="b"> Сторона B </param>
