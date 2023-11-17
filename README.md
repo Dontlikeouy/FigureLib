@@ -10,4 +10,8 @@
 
 ## Пример:
 
-![](https://github.com/Dontlikeouy/FigureLib/assets/86613662/ac406dfe-69b0-416a-9d8c-e7fda05673da)
+
+https://github.com/Dontlikeouy/FigureLib/assets/86613662/fd730621-3e58-46fe-b847-a233054f484e
+
+
+
